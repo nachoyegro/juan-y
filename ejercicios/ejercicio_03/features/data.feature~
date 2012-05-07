@@ -1,0 +1,5 @@
+Feature: revert parameters
+
+  Scenario: Hola page
+    Given I am on "hola"
+    Then I should see "aloh"
